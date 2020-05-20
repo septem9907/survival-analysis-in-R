@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589853897811.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2762275544",
+    "id" : "B4F46A5C",
+    "lastKnownWriteTime" : 1589941074,
+    "last_content_update" : 1589941074173,
+    "path" : "~/Documents/Projects/survival-analysis-in-R/Weibull-model.R",
+    "project_path" : "Weibull-model.R",
+    "properties" : {
+        "cursorPosition" : "50,6",
+        "scrollLine" : "43",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

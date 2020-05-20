@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589798058030.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2127444050",
+    "id" : "A93AD202",
+    "lastKnownWriteTime" : 1589799718,
+    "last_content_update" : 1589799718419,
+    "path" : "~/Documents/Projects/survival-analysis-in-R/KM-estimate.R",
+    "project_path" : "KM-estimate.R",
+    "properties" : {
+        "cursorPosition" : "35,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
